@@ -1,0 +1,15 @@
+What does DBMS stand for?,Database Management System,Data Base Management Software,Document Base Management System,A
+Which of the following is a type of DBMS?,Network,Relational,Document,B  
+SQL is used for?,Data Analysis,Querying databases,Web Development,B  
+Which of the following is a popular DBMS?,MySQL,HTML,CSS,A
+In a relational DBMS, data is stored in?,Objects,Tables,Arrays,B  
+Which language is primarily used for querying in databases?,C++,SQL,Java,B
+What is the primary purpose of a DBMS?,Visualize data,Manage data,Secure data,B  
+Which of these is not a type of DBMS?,Hierarchical,Sequential,Object-oriented,B  
+What does normalization do in a database?,Increase redundancy,Reduce redundancy,Simplify queries,B  
+Which of the following is an example of NoSQL DBMS?,Oracle,MongoDB,SQLite,B
+Which SQL statement is used to delete data from a database?,A)REMOVE,B)DELETE,C)DROP,B
+What does SQL stand for?,A)Structured Query Language,B)Simple Query Language,C)Standard Question Language,A
+Which command is used to create a new table in SQL?,A)CREATE TABLE,B)NEW TABLE,C)MAKE TABLE,A
+Which of the following is used to retrieve data from a database?,A)GET,B)SELECT,C)PICK,B
+What is the default sorting order of the ORDER BY clause in SQL?,A)Descending,B)Ascending,C)Random,B

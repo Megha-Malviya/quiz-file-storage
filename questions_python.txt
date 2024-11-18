@@ -1,0 +1,16 @@
+What is the output of print(2 ** 3)? (A) 6 (B) 8 (C) 4 B  
+What keyword is used to define a function in Python? (A) function (B) def (C) fun B  
+What is the correct file extension for Python files? (A) .py (B) .python (C) .pyt A  
+Which of the following is a mutable data type? (A) Tuple (B) String (C) List C  
+What is the output of print('Hello' + ' World')? (A) Hello World (B) HelloWorld (C) 'Hello World' A  
+Which of these is not a Python data type? (A) List (B) Set (C) Array C  
+What does PEP stand for? (A) Python Enhancement Proposal (B) Python Execution Process (C) Python Enhancement Project A  
+What is the correct way to create a list in Python? (A) list = [] (B) list = {} (C) list = () A  
+Which built-in function can be used to iterate over a sequence? (A) after (B) for (C) loop B  
+How do you insert comments in Python? (A) // comment (B) # comment (C) /* comment */ B
+What is the correct syntax to output "Hello World" in Python?,print("Hello World"),echo("Hello World"),printf("Hello World"),A
+What is the output of print(type([]))?,A)<class 'list'>,B)<class 'tuple'>,C)<class 'dict'>,A
+Which of the following is used to install packages in Python?,A)pip install,B)python get,C)install python,A
+Which keyword is used to raise an exception in Python?,A)raise,B)throw,C)except,A
+What is the correct syntax for defining a function in Python?,A)def func():,B)function func(),C)define func():,A
+Which of the following data types is not supported in Python?,A)list,B)boolean,C)character,A

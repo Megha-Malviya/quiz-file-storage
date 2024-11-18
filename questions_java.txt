@@ -1,0 +1,14 @@
+What is the default value of a boolean variable in Java?,0,false,true,B
+Which of the following is not a primitive data type in Java?,int,String,boolean,B
+What does JVM stand for? ,Java Variable Method,Java Virtual Machine,Java Verified Machine,B
+What keyword is used to inherit a class in Java?,inherits,extends,implements,B
+Which method is the entry point for any Java program?mainMethod,start,main,C
+What is the correct syntax for a for loop in Java?,for (int i = 0; i < 5; i++),for int i = 0; i < 5; i++,for (i = 0; i < 5; ++i),A
+Which of the following is true about constructors in Java?,They have a return type,They can be overloaded,They must be private.,B
+What does the 'static' keyword mean in Java?,Variable can change.,Method belongs to the class,rather than instances,Variable cannot change,B
+Which of the following is a valid declaration of a char?,char c = 'g',char c = "g",char c = g,A
+What does the 'static' keyword mean in Java?,A)Variable can change.,B)Method belongs to the class, rather than instances.,C)Variable cannot change.,B
+Which of the following is a valid declaration of a char?,A)char c = 'g',B)char c = "g",C)char c = g,A
+What is the output of System.out.println(1 + 1 + "1");?,A)11,B)21,C)1+1,B
+Which access modifier allows visibility to the same package and subclasses?,A)protected,B)private,C)public,A
+What is the term for a Java class that cannot be instantiated?,A)Abstract class,B)Final class,C)Static class,A
